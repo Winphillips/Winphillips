@@ -8,19 +8,23 @@
 <table >
 	<tr align="center">
 		<td><a href="#"><img src="./github/icons/typescript.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./github/icons/javascript.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/react.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/nodejs.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/mongodb.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/postgresql.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/bash.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./github/icons/git.svg" width="60" height="60"/></a></td>
 	</tr>
 	<tr align="center">
 		<td>TypeScript</td>
-		<td>React/Native</td>
+		<td>JavScript</td>
+		<td>React</td>
 		<td>Node.js</td>
 		<td>MongoDB</td>
 		<td>PostgreSQL</td>
 		<td>Bash</td>
+		<td>Git</git>
 	</tr>
 </table>
 <!-- <table >
