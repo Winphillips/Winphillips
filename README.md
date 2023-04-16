@@ -1,5 +1,4 @@
-# Hi there 👋
-### ⚡ Fun fact: You can do this too! Create a repository with your own github username.
+# Hello! 👋
 
 <a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Winphillips&show_icons=true&theme=radical" /></a>&nbsp;&nbsp;<a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winphillips&layout=compact&langs_count=12&hide=" /></a>
 
