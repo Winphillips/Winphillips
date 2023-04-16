@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Winphillips&show_icons=true&theme=radical" /></a>&nbsp;&nbsp;<a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winphillips&layout=compact&langs_count=12&hide=" /></a>
 
-## Technologies I have used
+## Technologies
 
 <table >
 	<tr align="center">
@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on Gesture Controlled Audio Softwares
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Audio VST'
+- 👯 I’m looking to collaborate on Audio VST's
 <!-- <table >
 	<tr align="center">
 		
