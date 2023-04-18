@@ -6,8 +6,8 @@
 
 <table >
 	<tr align="center">
-		<td><a href="#"><img src="./github/icons/ISO_C++_Logo.svg" width="60" height="60"/></a></td>
-		<td><a href="#"><img src="./github/icons/Python-logo-notext.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./github/icons/ISO_C++_Logo.svg.png" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./github/icons/Python-logo-notext.svg.webd" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/typescript.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/javascript.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/react.svg" width="60" height="60"/></a></td>
