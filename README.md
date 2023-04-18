@@ -2,10 +2,12 @@
 
 <a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Winphillips&show_icons=true&theme=radical" /></a>&nbsp;&nbsp;<a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winphillips&layout=compact&langs_count=12&hide=" /></a>
 
-## Technologies
+## Main Stack
 
 <table >
 	<tr align="center">
+		<td><a href="#"><img src="./github/icons/ISO_C++_Logo.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./github/icons/Python-logo-notext.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/typescript.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/javascript.svg" width="60" height="60"/></a></td>
 		<td><a href="#"><img src="./github/icons/react.svg" width="60" height="60"/></a></td>
@@ -16,6 +18,8 @@
 		<td><a href="#"><img src="./github/icons/git.svg" width="60" height="60"/></a></td>
 	</tr>
 	<tr align="center">
+		<td>C++</td>
+		<td>Python</td>
 		<td>TypeScript</td>
 		<td>JavScript</td>
 		<td>React</td>
