@@ -1,7 +1,7 @@
 # Hello! 👋
 
 <a href="https://github.com/Winphillips">
-	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Winphillips&show_icons=true&theme=highcontrast&count_private=true&bg_color=00000000" />
+	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Winphillips&show_icons=true&theme=highcontrast&count_private=true&bg_color=00000000&hide=issues,contribs" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Winphillips">
 	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&hide_progress=true&layout=compact" />
