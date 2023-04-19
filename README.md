@@ -4,7 +4,7 @@
 	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Winphillips&show_icons=true&theme=highcontrast&count_private=true&bg_color=00000000" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Winphillips">
-	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&hide_progress=true" />
+	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&hide_progress=true&layout=compact" />
 </a>
 
 ## Main Stack
