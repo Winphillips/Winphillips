@@ -1,7 +1,14 @@
 # Hello! 👋
 
-<a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Winphillips&show_icons=true&theme=highcontrast&count_private=true&bg_color=00000000" /></a>&nbsp;&nbsp;<a href="https://github.com/Winphillips"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&hide_progress=true&langs_count=12&hide=" /></a>
-
+<a href="https://github.com/Winphillips">
+	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Winphillips&show_icons=true&theme=highcontrast&count_private=true&bg_color=00000000" />
+</a>&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<a href="https://github.com/Winphillips">
+	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&hide_progress=true&langs_count=12&hide=" />
+</a>
+-->
 ## Main Stack
 
 <table >
