@@ -40,7 +40,7 @@
 ## Currently...
 
 - 🔭 I’m currently working on Gesture Controlled Audio Softwares
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently researching Machine Learning
 - 👯 I’m looking to collaborate on Audio VST's
 <!-- <table >
 	<tr align="center">
