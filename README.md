@@ -5,7 +5,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/Winphillips">
-	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips" />
+	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&layout=compact" />
 </a>
 
 ## Preferred Stack
