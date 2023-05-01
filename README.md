@@ -8,7 +8,7 @@
 	<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winphillips&layout=compact" />
 </a>
 
-## Main Stack
+## Preferred Stack
 
 <table >
 	<tr align="center">
